@@ -1,1 +1,1 @@
-// java => javac "compilador" => programa
+// java => javac "compilador" => JVM => programa
