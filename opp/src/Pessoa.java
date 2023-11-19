@@ -3,6 +3,7 @@ public class Pessoa {
     int idade;
     String documento;
 
+    // Construtor
     Pessoa(String nome, int idade, String documento) {
         this.nome = nome;
         this.idade = idade;
