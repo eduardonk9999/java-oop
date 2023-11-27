@@ -4,7 +4,8 @@ public class ControleDeFluxo{
        do {
             System.out.println("Interação " + contador);
             x++;
-       }while (x < 10);
+       }while (x < 100);
+
 
     }
 }
